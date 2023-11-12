@@ -1,4 +1,4 @@
-# Repository README
+# MiniCaml
 
 ## Simple Interpreter for a Functional Programming Language
 
