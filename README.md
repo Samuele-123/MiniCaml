@@ -2,7 +2,7 @@
 
 ## Simple Interpreter for a Functional Programming Language
 
-This repository contains a simple interpreter for a functional programming language implemented in OCaml. The language supports basic arithmetic operations, boolean expressions, and function definitions.
+This repository contains a simple interpreter for a functional programming language implemented in OCaml. The language supports basic arithmetic operations, boolean expressions, and function definitions. This project is based on the one that the professor showed during the programming paradigms course.
 
 ### Language Features
 
